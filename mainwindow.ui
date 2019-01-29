@@ -98,7 +98,7 @@
      <item>
       <widget class="QPushButton" name="addEvent">
        <property name="text">
-        <string>Добавить событие</string>
+        <string>Добавить задачу</string>
        </property>
       </widget>
      </item>

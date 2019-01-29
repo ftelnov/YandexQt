@@ -74,7 +74,7 @@ class Ui_MainWindow(object):
         item.setText(_translate("MainWindow", "Дата"))
         item = self.events.horizontalHeaderItem(3)
         item.setText(_translate("MainWindow", "Описание"))
-        self.addEvent.setText(_translate("MainWindow", "Добавить событие"))
+        self.addEvent.setText(_translate("MainWindow", "Добавить задачу"))
         self.clearEvent.setText(_translate("MainWindow", "Очистить таблицу"))
         self.saveToFile.setText(_translate("MainWindow", "Сохранить в файл"))
 
